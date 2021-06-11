@@ -1,0 +1,9 @@
+{
+	"user_id": { "S": "x007aa" },
+	"timestamp": { "N": "1622809847" },
+	"name": { "S": "Kid Rock" },
+	"school": { "S": "Hill Valley" },
+	"grade": { "N": "10" },
+	"email": { "S": "kid@hv.edu" },
+	"category": { "S": "Dramatic Monologue" }
+}
